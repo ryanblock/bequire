@@ -1,0 +1,16 @@
+{
+  "name": "bequire",
+  "version": "0.0.1",
+  "bin": {
+    "bequire": "./src/index.js"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "esprima": "^4.0.1",
+    "glob": "^7.1.6",
+    "run-waterfall": "^1.1.6"
+  }
+}
